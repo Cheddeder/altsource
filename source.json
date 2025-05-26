@@ -1,5 +1,5 @@
 {
-  "name": "Cheddeder's Source",
+  "name": "source",
   "subtitle": "A source for all of my apps",
   "description": "Welcome to my source! Here you'll find all of my apps.",
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
@@ -21,7 +21,17 @@
       "tintColor": "#7f7f7f",
       "category": "other",
       "screenshots": [],
-      "versions": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/marcowindt/WiiMoteDSU/releases/download/v0.5.1/WiiMoteDSU-v0.5.1.ipa",
+          "size": 72600000,
+          "version": "0.5.1",
+          "buildVersion": null,
+          "date": "2025-05-26T02:54:00+08:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
